@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'hhs-sso-prototype';
+  headerMessage = 'You are not logged in.';
 }
